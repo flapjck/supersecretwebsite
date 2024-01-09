@@ -228,8 +228,8 @@
             "alignment": {
                 "type": "CENTER",
                 "offset": {
-                    "x": 5.7,
-                    "y": 0.9
+                    "x": 4,
+                    "y": 2
                 }
             }
         },
@@ -237,8 +237,8 @@
             "file": "trop_close.png",
             "image": "SIMPLE",
             "position": {
-                "x": 250.1,
-                "y": -281.8
+                "x": 263.2,
+                "y": -266.4
             },
             "type": "button"
         },
@@ -250,12 +250,8 @@
             "text": "Trophies",
             "align": "center",
             "position": {
-                "x": -231.2,
-                "y": -275.5
-            },
-            "anchor": {
-                "x": 0,
-                "y": 0.5
+                "x": 22.6,
+                "y": -265.8
             },
             "type": "text"
         },
@@ -274,8 +270,8 @@
             "text": "Standar Acts",
             "align": "center",
             "position": {
-                "x": -251.5,
-                "y": -219.4
+                "x": -257.7,
+                "y": -201.7
             },
             "anchor": {
                 "x": 0,
@@ -287,8 +283,8 @@
             "file": "trop_bar_bg.png",
             "image": "SIMPLE",
             "position": {
-                "x": 141.2,
-                "y": -222.8
+                "x": 99.3,
+                "y": -200.5
             },
             "type": "sprite"
         },
@@ -308,16 +304,16 @@
         "container/container1/standar_acts_percentage": {
             "font": {
                 "name": "milocha",
-                "fontSize": 25
+                "fontSize": 21
             },
-            "text": "5/10",
+            "text": "100%",
             "align": "center",
             "position": {
-                "x": -5.4,
-                "y": -222.1
+                "x": 246.3,
+                "y": -200.2
             },
             "anchor": {
-                "x": 0,
+                "x": 1,
                 "y": 0.5
             },
             "type": "text"
@@ -326,8 +322,8 @@
             "file": "trop_act1_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -193,
-                "y": -155.9
+                "x": -184.9,
+                "y": -133.9
             },
             "type": "sprite"
         },
@@ -335,8 +331,8 @@
             "file": "trop_act2_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -99.5,
-                "y": -155.9
+                "x": -91.4,
+                "y": -133.9
             },
             "type": "sprite"
         },
@@ -344,8 +340,8 @@
             "file": "trop_act3_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -5.9,
-                "y": -155.9
+                "x": 2.2,
+                "y": -133.9
             },
             "type": "sprite"
         },
@@ -353,8 +349,8 @@
             "file": "trop_act4_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 87.6,
-                "y": -155.9
+                "x": 95.7,
+                "y": -133.9
             },
             "type": "sprite"
         },
@@ -362,8 +358,8 @@
             "file": "trop_act5_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 181.1,
-                "y": -155.9
+                "x": 189.2,
+                "y": -133.9
             },
             "type": "sprite"
         },
@@ -371,8 +367,8 @@
             "file": "trop_act6_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -195.9,
-                "y": -85.9
+                "x": -184.9,
+                "y": -61.2
             },
             "type": "sprite"
         },
@@ -380,8 +376,8 @@
             "file": "trop_act7_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -101.8,
-                "y": -85.9
+                "x": -91.4,
+                "y": -61.2
             },
             "type": "sprite"
         },
@@ -389,8 +385,8 @@
             "file": "trop_act8_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -7.5,
-                "y": -85.9
+                "x": 2.2,
+                "y": -61.2
             },
             "type": "sprite"
         },
@@ -398,8 +394,8 @@
             "file": "trop_act9_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 86.5,
-                "y": -85.9
+                "x": 95.7,
+                "y": -61.2
             },
             "type": "sprite"
         },
@@ -407,8 +403,8 @@
             "file": "trop_act10_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 180.1,
-                "y": -86
+                "x": 189.2,
+                "y": -61.2
             },
             "type": "sprite"
         },
@@ -420,8 +416,8 @@
             "text": "Hardcore",
             "align": "center",
             "position": {
-                "x": -252.6,
-                "y": -14.6
+                "x": -257.2,
+                "y": 26.2
             },
             "anchor": {
                 "x": 0,
@@ -433,8 +429,8 @@
             "file": "trop_bar_bg.png",
             "image": "SIMPLE",
             "position": {
-                "x": 140.9,
-                "y": -17
+                "x": 99,
+                "y": 27.7
             },
             "type": "sprite"
         },
@@ -454,16 +450,16 @@
         "container/container1/hardcore_percentage": {
             "font": {
                 "name": "milocha",
-                "fontSize": 25
+                "fontSize": 21
             },
-            "text": "2/19",
+            "text": "100%",
             "align": "center",
             "position": {
-                "x": -1.2,
-                "y": -16.1
+                "x": 246.7,
+                "y": 27.8
             },
             "anchor": {
-                "x": 0,
+                "x": 1,
                 "y": 0.5
             },
             "type": "text"
@@ -472,89 +468,89 @@
             "file": "trop_star1_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -228.5,
-                "y": 52.5
+                "x": -223.8,
+                "y": 102
             },
             "type": "sprite"
         },
         "container/container1/star2": {
-            "file": "trop_star1_lock.png",
+            "file": "trop_star2_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -179.7,
-                "y": 52.5
+                "x": -175,
+                "y": 102
             },
             "type": "sprite"
         },
         "container/container1/star3": {
-            "file": "trop_star1_lock.png",
+            "file": "trop_star3_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -131,
-                "y": 52.5
+                "x": -126.3,
+                "y": 102
             },
             "type": "sprite"
         },
         "container/container1/star4": {
-            "file": "trop_star1_lock.png",
+            "file": "trop_star4_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -82.2,
-                "y": 52.5
+                "x": -77.5,
+                "y": 102
             },
             "type": "sprite"
         },
         "container/container1/star5": {
-            "file": "trop_star1_lock.png",
+            "file": "trop_star5_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -33.4,
-                "y": 52.5
+                "x": -28.7,
+                "y": 102
             },
             "type": "sprite"
         },
         "container/container1/star6": {
-            "file": "trop_star1_lock.png",
+            "file": "trop_star6_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 15.3,
-                "y": 52.5
+                "x": 20,
+                "y": 102
             },
             "type": "sprite"
         },
         "container/container1/star7": {
-            "file": "trop_star1_lock.png",
+            "file": "trop_star7_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 64.1,
-                "y": 52.5
+                "x": 68.8,
+                "y": 102
             },
             "type": "sprite"
         },
         "container/container1/star8": {
-            "file": "trop_star1_lock.png",
+            "file": "trop_star8_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 112.9,
-                "y": 52.5
+                "x": 117.6,
+                "y": 102
             },
             "type": "sprite"
         },
         "container/container1/star9": {
-            "file": "trop_star1_lock.png",
+            "file": "trop_star9_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 161.6,
-                "y": 52.5
+                "x": 166.3,
+                "y": 102
             },
             "type": "sprite"
         },
         "container/container1/star10": {
-            "file": "trop_star1_lock.png",
+            "file": "trop_star10_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 210.4,
-                "y": 52.5
+                "x": 215.1,
+                "y": 102
             },
             "type": "sprite"
         },
@@ -562,80 +558,80 @@
             "file": "trop_hard_mode1_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -226.8,
-                "y": 118.3
+                "x": -222.1,
+                "y": 163.7
             },
             "type": "sprite"
         },
         "container/container1/hardcore2": {
-            "file": "trop_hard_mode1_lock.png",
+            "file": "trop_hard_mode2_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -171.6,
-                "y": 118.3
+                "x": -166.9,
+                "y": 163.7
             },
             "type": "sprite"
         },
         "container/container1/hardcore3": {
-            "file": "trop_hard_mode1_lock.png",
+            "file": "trop_hard_mode3_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -116.4,
-                "y": 118.3
+                "x": -111.7,
+                "y": 163.7
             },
             "type": "sprite"
         },
         "container/container1/hardcore4": {
-            "file": "trop_hard_mode1_lock.png",
+            "file": "trop_hard_mode4_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -61.2,
-                "y": 118.3
+                "x": -56.5,
+                "y": 163.7
             },
             "type": "sprite"
         },
         "container/container1/hardcore5": {
-            "file": "trop_hard_mode1_lock.png",
+            "file": "trop_hard_mode5_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -6,
-                "y": 118.3
+                "x": -1.3,
+                "y": 163.7
             },
             "type": "sprite"
         },
         "container/container1/hardcore6": {
-            "file": "trop_hard_mode1_lock.png",
+            "file": "trop_hard_mode6_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 49.2,
-                "y": 118.3
+                "x": 53.9,
+                "y": 163.7
             },
             "type": "sprite"
         },
         "container/container1/hardcore7": {
-            "file": "trop_hard_mode1_lock.png",
+            "file": "trop_hard_mode7_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 104.4,
-                "y": 118.3
+                "x": 109.1,
+                "y": 163.7
             },
             "type": "sprite"
         },
         "container/container1/hardcore8": {
-            "file": "trop_hard_mode1_lock.png",
+            "file": "trop_hard_mode8_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 159.6,
-                "y": 118.3
+                "x": 164.3,
+                "y": 163.7
             },
             "type": "sprite"
         },
         "container/container1/hardcore9": {
-            "file": "trop_hard_mode1_lock.png",
+            "file": "trop_hard_mode9_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 214.8,
-                "y": 118.3
+                "x": 219.5,
+                "y": 163.7
             },
             "type": "sprite"
         },
@@ -654,8 +650,8 @@
             "text": "Awsome Stuff",
             "align": "center",
             "position": {
-                "x": -253.7,
-                "y": -218.3
+                "x": -257.7,
+                "y": -201.7
             },
             "anchor": {
                 "x": 0,
@@ -667,8 +663,8 @@
             "file": "trop_bar_bg.png",
             "image": "SIMPLE",
             "position": {
-                "x": 141,
-                "y": -223
+                "x": 98.7,
+                "y": -200
             },
             "type": "sprite"
         },
@@ -688,16 +684,16 @@
         "container/container2/standar_acts_percentage": {
             "font": {
                 "name": "milocha",
-                "fontSize": 25
+                "fontSize": 21
             },
-            "text": "1/7",
+            "text": "100%",
             "align": "center",
             "position": {
-                "x": -4,
-                "y": -222
+                "x": 246.5,
+                "y": -200.2
             },
             "anchor": {
-                "x": 0,
+                "x": 1,
                 "y": 0.5
             },
             "type": "text"
@@ -706,8 +702,8 @@
             "file": "trop_stuff1_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -146.9,
-                "y": -154.1
+                "x": -152,
+                "y": -135.3
             },
             "type": "sprite"
         },
@@ -715,8 +711,8 @@
             "file": "trop_stuff3_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -8.1,
-                "y": -151.9
+                "x": 0,
+                "y": -132
             },
             "type": "sprite"
         },
@@ -724,8 +720,8 @@
             "file": "trop_stuff4_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 117.9,
-                "y": -154
+                "x": 152,
+                "y": -131
             },
             "type": "sprite"
         },
@@ -733,8 +729,8 @@
             "file": "trop_stuff5_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -78.3,
-                "y": -84.9
+                "x": -78,
+                "y": -61.9
             },
             "type": "sprite"
         },
@@ -742,8 +738,8 @@
             "file": "trop_stuff6_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 63.2,
-                "y": -85.3
+                "x": 78,
+                "y": -59.9
             },
             "type": "sprite"
         },
@@ -755,8 +751,8 @@
             "text": "Completion",
             "align": "center",
             "position": {
-                "x": -253.4,
-                "y": -14.9
+                "x": -257.2,
+                "y": 26.2
             },
             "anchor": {
                 "x": 0,
@@ -768,8 +764,8 @@
             "file": "trop_bar_bg.png",
             "image": "SIMPLE",
             "position": {
-                "x": 141.7,
-                "y": -17.6
+                "x": 98.7,
+                "y": 28
             },
             "type": "sprite"
         },
@@ -791,14 +787,14 @@
                 "name": "milocha",
                 "fontSize": 21
             },
-            "text": "5%",
+            "text": "100%",
             "align": "center",
             "position": {
-                "x": -2.1,
-                "y": -17.8
+                "x": 246.2,
+                "y": 27.8
             },
             "anchor": {
-                "x": 0,
+                "x": 1,
                 "y": 0.5
             },
             "type": "text"
@@ -807,8 +803,8 @@
             "file": "trop_completion1_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -110.5,
-                "y": 46.8
+                "x": -130.2,
+                "y": 104.5
             },
             "type": "sprite"
         },
@@ -817,7 +813,7 @@
             "image": "SIMPLE",
             "position": {
                 "x": 0,
-                "y": 46.8
+                "y": 104
             },
             "type": "sprite"
         },
@@ -825,8 +821,8 @@
             "file": "trop_completion3_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 110.5,
-                "y": 46.8
+                "x": -67.7,
+                "y": 161.4
             },
             "type": "sprite"
         },
@@ -834,8 +830,8 @@
             "file": "trop_completion4_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": 56,
-                "y": 123.2
+                "x": 68.7,
+                "y": 163.3
             },
             "type": "sprite"
         },
@@ -843,8 +839,8 @@
             "file": "trop_completion2_lock.png",
             "image": "SIMPLE",
             "position": {
-                "x": -56,
-                "y": 123.2
+                "x": 131.6,
+                "y": 104
             },
             "type": "sprite"
         },
@@ -856,10 +852,9 @@
             "text": "1",
             "align": "center",
             "position": {
-                "x": -30,
-                "y": 193.4
+                "x": -21.3,
+                "y": 242
             },
-            "color": "#ffe327",
             "type": "text"
         },
         "container/2_2": {
@@ -870,10 +865,9 @@
             "text": "2",
             "align": "center",
             "position": {
-                "x": 22,
-                "y": 193.4
+                "x": 11.6,
+                "y": 242
             },
-            "color": "#ffe327",
             "type": "text"
         },
         "container/description": {
@@ -885,7 +879,7 @@
             "align": "center",
             "position": {
                 "x": -4.2,
-                "y": 260.4
+                "y": 275.7
             },
             "type": "text"
         },
@@ -893,8 +887,8 @@
             "file": "trop_arrow_left.png",
             "image": "SIMPLE",
             "position": {
-                "x": -257.5,
-                "y": 205.9
+                "x": -278.8,
+                "y": 239.8
             },
             "type": "button"
         },
@@ -902,8 +896,8 @@
             "file": "trop_arrow_right.png",
             "image": "SIMPLE",
             "position": {
-                "x": 240.6,
-                "y": 205.9
+                "x": 278.8,
+                "y": 239.8
             },
             "type": "button"
         }
